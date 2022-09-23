@@ -1,5 +1,7 @@
 ## Lab 1: Dark and Light Mode
 
+`Author: Sher Sanginov`
+
 Overview
 
 In this lab, you learn how to add a button to an Android application that toggles the app between two themes using the `Jetpack Compose` library. 
